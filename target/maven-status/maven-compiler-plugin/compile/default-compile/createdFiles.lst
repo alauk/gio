@@ -1,0 +1,7 @@
+com\br\estudo\projeto\controller\HelloWorldController.class
+com\br\estudo\projeto\entity\Tarefa.class
+com\br\estudo\projeto\service\TarefaService.class
+com\br\estudo\projeto\App.class
+com\br\estudo\projeto\repository\TarefaRepository.class
+com\br\estudo\projeto\config\ConfigSpringMvc.class
+com\br\estudo\projeto\controller\TarefaController.class
